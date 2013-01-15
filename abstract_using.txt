@@ -1,0 +1,8 @@
+Better Testing with Given/When/Then
+-----------------------------------
+
+Do you struggle with writing good tests? Do you want your executable specs to read like real specifications and not just code you have to wade through to understand?
+
+Given/When/Then is an extension library for RSpec designed to take RSpec's excellent DSL for defining English-like specifications and taking it to the next level. Given/When/Then allows developers to clearly state what behaviors are being specified, what are the preconditions for that behavior, and what outcomes are expected under various scenarios.
+
+This talk will cover not only the basics of Given/When/Then, but also best practices for writing readable and robust specifications that are not brittle when faced with code refactoring.

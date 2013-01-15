@@ -1,0 +1,4 @@
+Given - Designing a Language
+----------------------------
+
+Given is a lightweight framework for writing executable specifications.  Written as a layer on top of RSpec, it makes the Given/When/Then style of specification very explicit.  Although its goals are modest, there are some interesting technical details about its design and implementation.  This talk will walk you from the initial conception of Given, through its design, and onto its unusual implementation, hopefully given you a unique perspective on the building of an expressive DSL.
