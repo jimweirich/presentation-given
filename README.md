@@ -7,6 +7,6 @@ CodeMash 2013.
 
 Copyright 2013 by Jim Weirich, Some Rights Reserved
 
-This work is available under the . [Creative Commons
+This work is available under the [Creative Commons
 Attribute-NonCommercial-ShareAlike 2.0
-licence](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+licence](http://creativecommons.org/licenses/by-nc-sa/3.0/).
